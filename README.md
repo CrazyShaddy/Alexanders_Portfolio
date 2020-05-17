@@ -17,9 +17,9 @@ Here, I will share some of my projects on my way.
 
 ## Example output:
 
-![](https://github.com/CrazyShaddy/Compound_Interest_Calculator/blob/master/Output_console.png)
+![](/Compound_Interest_Calculator/blob/master/Output_console.png)
 
-![](https://github.com/CrazyShaddy/Compound_Interest_Calculator/blob/master/CI_10years_500start_8%25.png)
+![](/Compound_Interest_Calculator/blob/master/CI_10years_500start_8%25.png)
 
 
 
