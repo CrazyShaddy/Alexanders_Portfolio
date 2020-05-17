@@ -1,6 +1,9 @@
-# Hello all, I am Alexander 
+# Hello everybody, 
+## I am Alexander and this is my coding portfolio.
 
-This is my coding portfolio. I just started to learn Python but I am sure that I will soon code Data Analysis.
+I made my master in Biology and now I am on my way to become an Data Analyst or Business Analyst.
+Here, I will share some of my projects on my way.
+
 
 # [Project 1: Compound Interest calculator](https://github.com/CrazyShaddy/Compound_Interest_Calculator)
 * I made a calculator that calculates the compound interest and plots the graph from start till finish
