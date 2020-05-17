@@ -19,6 +19,6 @@ Here, I will share some of my projects on my way.
 
 ![](/images/Output_console.png)
 
-![](/images/CI_10years_500start_8%25.png)
+![](/images/CI_example.png)
 
 
