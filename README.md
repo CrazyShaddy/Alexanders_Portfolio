@@ -17,9 +17,8 @@ Here, I will share some of my projects on my way.
 
 ## Example output:
 
-![](/Compound_Interest_Calculator/blob/master/Output_console.png)
+![](/images/Output_console.png)
 
-![](/Compound_Interest_Calculator/blob/master/CI_10years_500start_8%25.png)
-
+![](/images/CI_10years_500start_8%25.png)
 
 
