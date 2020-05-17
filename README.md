@@ -12,8 +12,8 @@ This is my coding portfolio. I just started to learn Python but I am sure that I
 * I made lists for x- and y-values
 * Finally, I plotted the graph with matplotlib
 
-!(https://github.com/CrazyShaddy/Compound_Interest_Calculator/blob/master/Compound_interest_github.py)
+![](https://github.com/CrazyShaddy/Compound_Interest_Calculator/blob/master/Compound_interest_github.py)
 
-!(https://github.com/CrazyShaddy/Compound_Interest_Calculator/blob/master/Output_console.png)
+![](https://github.com/CrazyShaddy/Compound_Interest_Calculator/blob/master/Output_console.png)
 
 
