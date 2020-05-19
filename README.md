@@ -21,4 +21,21 @@ Here, I will share some of my projects on my way.
 
 ![](/images/CI_example.png)
 
+# [Project 2: Exploratory Data Analysis]()
+* I explored data in an online database
+* I extracted different dataframes
+* I merged important dataframes
+* I made 
+ * Bar charts
+ * Pie chart
+ * Box plot
+
+## Created output:
+
+![](/images/bar_chart_001.png) ![](/images/bar_chart_meals_per_food.png)
+
+![](/images/pie_chart_cuisine_share.png)
+
+![](/images/box_cuisine_price.png)
+
 
