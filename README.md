@@ -31,12 +31,12 @@ Here, I will share some of my projects on my way.
   * Box plot
 
 ## Created output:
-<img src="/images/bar_chart_001.png" width="600" height="600">
+<img src="../bar_chart_001.png" width="600" height="600">
 
-<img src="/images/bar_chart_meals_per_food.png" width="600" height="600">
+<img src="../bar_chart_meals_per_food.png" width="600" height="600">
 
-<img src="/images/pie_chart_cuisine_share.png" width="550" height="400">
+<img src="../pie_chart_cuisine_share.png" width="550" height="400">
 
-<img src="/images/box_cuisine_price.png" width="450" height="450">
+<img src="../box_cuisine_price.png" width="450" height="450">
 
 
