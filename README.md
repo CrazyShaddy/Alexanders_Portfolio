@@ -26,16 +26,17 @@ Here, I will share some of my projects on my way.
 * I extracted different dataframes
 * I merged important dataframes
 * I made 
- * Bar charts
- * Pie chart
- * Box plot
+  * Bar charts
+  * Pie chart
+  * Box plot
 
 ## Created output:
+<img src="/images/bar_chart_001.png" width="600" height="600">
 
-![](/images/bar_chart_001.png) ![](/images/bar_chart_meals_per_food.png)
+<img src="/images/bar_chart_meals_per_food.png" width="600" height="600">
 
-![](/images/pie_chart_cuisine_share.png)
+<img src="/images/pie_chart_cuisine_share.png" width="550" height="400">
 
-![](/images/box_cuisine_price.png)
+<img src="/images/box_cuisine_price.png" width="450" height="450">
 
 
