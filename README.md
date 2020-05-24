@@ -21,7 +21,7 @@ Here, I will share some of my projects on my way.
 
 ![](/images/CI_example.png)
 
-# [Project 2: Exploratory Data Analysis]()
+# [Project 2: Exploratory Data Analysis](https://github.com/CrazyShaddy/Exploratory-Data-Analysis)
 * I explored data in an online database
 * I extracted different dataframes
 * I merged important dataframes
