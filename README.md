@@ -29,6 +29,8 @@ Here, I will share some of my projects on my way.
   * Bar charts
   * Pie chart
   * Box plot
+  * Sub plots
+  * Different sub plots in one figure
 
 ## Created output:
 <img src="./images/bar_chart_001.png" width="600" height="600">
@@ -39,4 +41,6 @@ Here, I will share some of my projects on my way.
 
 <img src="./images/box_cuisine_price.png" width="450" height="450">
 
+![](/images/first_subplot_scatter.png)
 
+![](/images/three_plots.png)
