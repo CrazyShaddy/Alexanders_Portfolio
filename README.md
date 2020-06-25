@@ -11,11 +11,8 @@ Here, I will share some of my projects on my way.
 * retained graphs out of objects
 
 ## Created output:
-<img src="./images/linear_reg_1.png" width="600" height="600">
+<img src="./images/linear_reg_1.png" width="450" height="450">
 <img src="./images/subplot_1.png" width="600" height="600">
-https://github.com/CrazyShaddy/Alexanders-Portfolio/blob/master/images/linear_reg_1.png
-https://github.com/CrazyShaddy/Alexanders-Portfolio/blob/master/images/subplot_1.png
-
 
 
 # [Project 2: Exploratory Data Analysis](https://github.com/CrazyShaddy/Exploratory-Data-Analysis)
