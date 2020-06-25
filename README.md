@@ -4,6 +4,20 @@
 I made my master in Biology and now I am on my way to become an Data Analyst or Business Analyst.
 Here, I will share some of my projects on my way.
 
+# [Project 3: Height and weight Dataset](https://github.com/CrazyShaddy/height_weight_analysis_and_prediction)
+* Scraped data from website
+* Explored the data
+* Included everything in obejcts (OOP)
+* retained graphs out of objects
+
+## Created output:
+<img src="./images/linear_reg_1.png" width="600" height="600">
+<img src="./images/subplot_1.png" width="600" height="600">
+https://github.com/CrazyShaddy/Alexanders-Portfolio/blob/master/images/linear_reg_1.png
+https://github.com/CrazyShaddy/Alexanders-Portfolio/blob/master/images/subplot_1.png
+
+
+
 # [Project 2: Exploratory Data Analysis](https://github.com/CrazyShaddy/Exploratory-Data-Analysis)
 * I explored data in an online database
 * I extracted different dataframes
