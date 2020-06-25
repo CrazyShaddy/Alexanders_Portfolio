@@ -1,14 +1,21 @@
 # Hello everybody,
 ## I am Alexander and this is my coding portfolio.
 
-I made my master in Biology and now I am on my way to become an Data Analyst or Business Analyst.
-Here, I will share some of my projects on my way.
+I made my master in Biology and now I am on my way to become an Data or Business Analyst.
+Who knows, maybe this journey will lead me to become an data scientist?
+Here, I will share some of my python projects that I coded.
+Enjoy the short summaries or have a look at the code on github.
+
+Cheers,
+
+*Alexander*
+
 
 # [Project 3: Height and weight Dataset](https://github.com/CrazyShaddy/height_weight_analysis_and_prediction)
 * Scraped data from website
 * Explored the data
-* Included everything in obejcts (OOP)
-* retained graphs out of objects
+* Included everything in objects (OOP)
+* Retained graphs from my classes
 
 ## Created output:
 <img src="./images/linear_reg_1.png" width="450" height="450">
