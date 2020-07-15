@@ -11,11 +11,14 @@ Cheers,
 *Alexander*
 
 
-# [Project 3: Height and weight Dataset](https://github.com/CrazyShaddy/height_weight_analysis_and_prediction)
-* Scraped data from website
-* Explored the data
-* Included everything in objects (OOP)
-* Retained graphs from my classes
+# [Project 3: Height and weight Dataset with OOP](https://github.com/CrazyShaddy/height_weight_analysis_and_prediction)
+* I scraped data from a website
+* I explored the data
+* I included everything in objects (OOP)
+* I retained graphs from my classes
+  * Sub plots
+  * Regression line
+* I made my first small prediction
 
 ## Created output:
 <img src="./images/linear_reg_1.png" width="450" height="450">
@@ -24,7 +27,7 @@ Cheers,
 
 
 # [Project 2: Exploratory Data Analysis](https://github.com/CrazyShaddy/Exploratory-Data-Analysis)
-* I explored data in an online database
+* I explored data from an online database
 * I extracted different dataframes
 * I merged important dataframes
 * I made
