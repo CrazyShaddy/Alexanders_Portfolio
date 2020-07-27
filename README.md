@@ -18,7 +18,7 @@ Cheers,
 * I made useful table and scalar functions
 
 ## Example output:
-<img src="./images/film_festival_database_diagram.jpg" width="900" height="600">
+<img src="./images/film_festival_database_diagram.jpg" width="1200" height="600">
 
 
 # [Project 3: Height and weight Dataset with OOP](https://github.com/CrazyShaddy/height_weight_analysis_and_prediction)
