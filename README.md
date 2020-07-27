@@ -17,7 +17,7 @@ Cheers,
 * I created views, procedures and triggers
 * I made useful table and scalar functions
 
-## Example output:
+## The created database:
 <img src="./images/film_festival_database_diagram.jpg" width="1200" height="600">
 
 
