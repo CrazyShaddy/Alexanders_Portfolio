@@ -10,6 +10,16 @@ Cheers,
 
 *Alexander*
 
+# [Project 4: SQL film festival database](https://github.com/AlexandersProjects/SQL_Filmfestival_Database)
+* I constructed a database from scratch
+* I created all necessary tables
+* I made all the necessary connections and indices
+* I created views, procedures and triggers
+* I made useful table and scalar functions
+
+## Example output:
+<img src="./images/film_festival_database_diagram.jpg" width="600" height="600">
+
 
 # [Project 3: Height and weight Dataset with OOP](https://github.com/CrazyShaddy/height_weight_analysis_and_prediction)
 * I scraped data from a website
