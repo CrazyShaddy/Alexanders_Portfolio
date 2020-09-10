@@ -10,6 +10,17 @@ Cheers,
 
 *Alexander*
 
+# [Project 5: SQL film festival database](https://github.com/AlexandersProjects/linear_regressions)
+* performed:
+  * linear regression
+  * multiple linear regression
+  * polynomial regression
+  * exploratory Data analysis
+* Made different plots
+
+## Example output:
+
+
 # [Project 4: SQL film festival database](https://github.com/AlexandersProjects/SQL_Filmfestival_Database)
 * I constructed a database from scratch
 * I created all necessary tables
