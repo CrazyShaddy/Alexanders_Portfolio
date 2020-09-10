@@ -21,7 +21,7 @@ Cheers,
 ## Example output:
 <img src="./images/linear_regression.png" width="450" height="450">
 
-<img src="./images/seaborn_pairplot.png" width="700" height="700">
+<img src="./images/seaborn_pairplot.png" width="800" height="800">
 
 
 # [Project 4: SQL film festival database](https://github.com/AlexandersProjects/SQL_Filmfestival_Database)
