@@ -19,6 +19,9 @@ Cheers,
 * Made different plots
 
 ## Example output:
+<img src="./images/linear_regression.png" width="600" height="600">
+
+<img src="./images/seaborn_pairplot.png" width="600" height="600">
 
 
 # [Project 4: SQL film festival database](https://github.com/AlexandersProjects/SQL_Filmfestival_Database)
