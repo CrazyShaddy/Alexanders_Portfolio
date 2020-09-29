@@ -10,7 +10,7 @@ Cheers,
 
 *Alexander*
 
-# [Project 5: Different regressions](https://github.com/AlexandersProjects/linear_regressions)
+# [Project 5: Linear Regression](https://github.com/AlexandersProjects/linear_regressions)
 * performed:
   * linear regression
   * multiple linear regression
