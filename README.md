@@ -10,6 +10,17 @@ Cheers,
 
 *Alexander*
 
+# [Project 6: Ueberanpassung Beispiele](https://github.com/AlexandersProjects/ueberanpassung_Beispiele)
+* performed:
+  * Linear regression
+  * Quadratic regression
+  * Cubic regression
+* Made different plots
+
+## Example output:
+<img src="./images/linear_regression.png" width="450" height="450">
+
+
 # [Project 5: Linear Regression](https://github.com/AlexandersProjects/linear_regressions)
 * performed:
   * linear regression
