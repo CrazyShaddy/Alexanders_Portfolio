@@ -22,7 +22,7 @@ Cheers,
 ## Example output:
 <img src="./images/lineare_regression_ueberanpassung_001.png" width="450" height="450">
 <img src="./images/quadratische_regression_ueberanpassung_002.png" width="450" height="450">
-<img src="./images/kubische_regression_ueberanpassung_001.png" width="450" height="450">
+<img src="./images/kubische_regression_ueberanpassung_003.png" width="450" height="450">
 
 # [Project 5: Linear Regression](https://github.com/AlexandersProjects/linear_regressions)
 * performed:
