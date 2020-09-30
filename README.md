@@ -11,6 +11,8 @@ Cheers,
 *Alexander*
 
 # [Project 6: Ueberanpassung Beispiele](https://github.com/AlexandersProjects/ueberanpassung_Beispiele)
+* Used pipelines
+* Used convenience functions for calculations
 * performed:
   * Linear regression
   * Quadratic regression
