@@ -10,7 +10,7 @@ Cheers,
 
 *Alexander*
 
-# [Project 6: Ueberanpassung Beispiele](https://github.com/AlexandersProjects/ueberanpassung_Beispiele)
+# [Project 6: Overfitting example](https://github.com/AlexandersProjects/ueberanpassung_Beispiele)
 * Used pipelines
 * Used convenience functions for calculations
 * performed:
