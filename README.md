@@ -10,6 +10,19 @@ Cheers,
 
 *Alexander*
 
+# [Project 7: Asteroid diameter prediction](https://github.com/AlexandersProjects/Asteroid_Diameter_Prediction)
+* Cleaned the data
+* Explored the data
+* performed different prediction models:
+  * Linear regression
+  * polynomial regressions
+  * decision three
+  * Random Forest
+
+## Example output:
+#<img src="./images/lineare_regression_ueberanpassung_001.png" width="450" height="450">
+
+
 # [Project 6: Overfitting example](https://github.com/AlexandersProjects/ueberanpassung_Beispiele)
 * Used pipelines
 * Used convenience functions for calculations
