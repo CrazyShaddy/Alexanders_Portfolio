@@ -20,8 +20,8 @@ Cheers,
   * Random Forest
 
 ## Example output:
-#<img src="./images/lineare_regression_ueberanpassung_001.png" width="450" height="450">
-
+<img src="./images/asteroids_decision%20tree.png" width="450" height="450">
+<img src="./images/asteroids_Decision%20Tree_Error%20Curve.png" width="450" height="450">
 
 # [Project 6: Overfitting example](https://github.com/AlexandersProjects/ueberanpassung_Beispiele)
 * Used pipelines
