@@ -28,7 +28,7 @@ Legendary (M = 116.68, SD = 30.35, n = 65) pokemon have significantly higher att
 The effect-size is d = 3.438535 and is according to Cohen (1988) a very strong effect.
 
 ## Histrogram of pokemon attack:
-<img src="./images/pokemon_histogram.png" width="450" height="450">
+<img src="./images/pokemon_histogram.png" width="600" height="450">
 
 # [Project 7: Asteroid diameter prediction](https://github.com/AlexandersProjects/Asteroid_Diameter_Prediction)
 * Cleaned the data
