@@ -10,6 +10,14 @@ Cheers,
 
 *Alexander*
 
+# [Pokemon comparison](https://github.com/AlexandersProjects/Asteroid_Diameter_Prediction)
+* Explored the data
+* controlled the data
+* compared if legendary pokemon have statistically higher attack than non-legendary pokemon
+
+## Example output:
+<img src="./images/asteroids_decision%20tree.png" width="450" height="450">
+
 # [Project 7: Asteroid diameter prediction](https://github.com/AlexandersProjects/Asteroid_Diameter_Prediction)
 * Cleaned the data
 * Explored the data
