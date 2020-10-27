@@ -10,13 +10,25 @@ Cheers,
 
 *Alexander*
 
-# [Pokemon comparison](https://github.com/AlexandersProjects/Asteroid_Diameter_Prediction)
+# [Pokemon comparison](https://github.com/AlexandersProjects/legendary_pokemon_comparison)
 * Explored the data
 * controlled the data
 * compared if legendary pokemon have statistically higher attack than non-legendary pokemon
 
-## Example output:
-<img src="./images/asteroids_decision%20tree.png" width="450" height="450">
+## Hypothesis
+
+H0: The attack of legendary pokemon is lower or equal than of non-legendary pokemon.
+$$M_{L} \leq M_{NL}$$
+
+H1: The attack of legendary pokemon higher than of non-legendary pokemon.
+$$M_{L} > M_{NL}$$
+
+## Conclusion
+Legendary (M = 116.68, SD = 30.35, n = 65) pokemon have significantly higher attacks than non-legendary (M = 75.67, SD = 30.49, n = 735) pokemon (t(798) = -10.397, p = 2.513e-05, n= 798). Hence, the H0 can be discarded.
+The effect-size is d = 3.438535 and is according to Cohen (1988) a very strong effect.
+
+## Histrogram of pokemon attack:
+<img src="./images/pokemon_histogram.png" width="450" height="450">
 
 # [Project 7: Asteroid diameter prediction](https://github.com/AlexandersProjects/Asteroid_Diameter_Prediction)
 * Cleaned the data
