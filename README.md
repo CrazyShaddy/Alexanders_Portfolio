@@ -30,7 +30,7 @@ The effect-size is d = 3.438535 and is according to Cohen (1988) a very strong e
 ## Histrogram of pokemon attack:
 <img src="./images/pokemon_histogram.png" width="600" height="450">
 
-# [Project 7: Asteroid diameter prediction](https://github.com/AlexandersProjects/Asteroid_Diameter_Prediction)
+# [Asteroid diameter prediction](https://github.com/AlexandersProjects/Asteroid_Diameter_Prediction)
 * Cleaned the data
 * Explored the data
 * performed different prediction models:
@@ -43,7 +43,7 @@ The effect-size is d = 3.438535 and is according to Cohen (1988) a very strong e
 <img src="./images/asteroids_decision%20tree.png" width="450" height="450">
 <img src="./images/asteroids_Decision%20Tree_Error%20Curve.png" width="450" height="450">
 
-# [Project 6: Overfitting example](https://github.com/AlexandersProjects/ueberanpassung_Beispiele)
+# [Overfitting example](https://github.com/AlexandersProjects/ueberanpassung_Beispiele)
 * Used pipelines
 * Used convenience functions for calculations
 * performed:
@@ -57,7 +57,7 @@ The effect-size is d = 3.438535 and is according to Cohen (1988) a very strong e
 <img src="./images/quadratische_regression_ueberanpassung_002.png" width="450" height="450">
 <img src="./images/kubische_regression_ueberanpassung_003.png" width="450" height="450">
 
-# [Project 5: Linear Regression](https://github.com/AlexandersProjects/linear_regressions)
+# [Linear Regression](https://github.com/AlexandersProjects/linear_regressions)
 * performed:
   * linear regression
   * multiple linear regression
@@ -71,7 +71,7 @@ The effect-size is d = 3.438535 and is according to Cohen (1988) a very strong e
 <img src="./images/seaborn_pairplot.png" width="800" height="800">
 
 
-# [Project 4: SQL film festival database](https://github.com/AlexandersProjects/SQL_Filmfestival_Database)
+# [SQL film festival database](https://github.com/AlexandersProjects/SQL_Filmfestival_Database)
 * I constructed a database from scratch
 * I created all necessary tables
 * I made all the necessary connections and indices
@@ -82,7 +82,7 @@ The effect-size is d = 3.438535 and is according to Cohen (1988) a very strong e
 <img src="./images/film_festival_database_diagram.jpg" width="1200" height="600">
 
 
-# [Project 3: Height and weight Dataset with OOP](https://github.com/CrazyShaddy/height_weight_analysis_and_prediction)
+# [Height and weight Dataset with OOP](https://github.com/CrazyShaddy/height_weight_analysis_and_prediction)
 * I scraped data from a website
 * I explored the data
 * I included everything in objects (OOP)
@@ -97,7 +97,7 @@ The effect-size is d = 3.438535 and is according to Cohen (1988) a very strong e
 <img src="./images/prediction_output.png" width="600" height="600">
 
 
-# [Project 2: Exploratory Data Analysis](https://github.com/CrazyShaddy/Exploratory-Data-Analysis)
+# [Exploratory Data Analysis](https://github.com/CrazyShaddy/Exploratory-Data-Analysis)
 * I explored data from an online database
 * I extracted different dataframes
 * I merged important dataframes
@@ -122,7 +122,7 @@ The effect-size is d = 3.438535 and is according to Cohen (1988) a very strong e
 ![](/images/three_plots.png)
 
 
-# [Project 1: Compound Interest calculator](https://github.com/CrazyShaddy/Compound_Interest_Calculator)
+# [Compound Interest calculator](https://github.com/CrazyShaddy/Compound_Interest_Calculator)
 * I made a calculator that calculates the compound interest and plots the graph from start till finish
 * I took the user input
 * I made functions to
