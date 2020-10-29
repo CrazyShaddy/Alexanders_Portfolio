@@ -17,11 +17,10 @@ Cheers,
 
 ## Hypothesis
 
-H0: The attack of legendary pokemon is lower or equal than of non-legendary pokemon.
-$$M_{L} \leq M_{NL}$$
+H0: The attack of legendary pokemon is lower or equal than of non-legendary pokemon. (M[L] </= M[NL])
 
-H1: The attack of legendary pokemon higher than of non-legendary pokemon.
-%20M_{L} > M_{NL}%20
+H1: The attack of legendary pokemon higher than of non-legendary pokemon. (M[L] > M[NL])
+
 
 ## Conclusion
 Legendary (M = 116.68, SD = 30.35, n = 65) pokemon have significantly higher attacks than non-legendary (M = 75.67, SD = 30.49, n = 735) pokemon (t(798) = -10.397, p = 2.513e-05, n= 798). Hence, the H0 can be discarded.
