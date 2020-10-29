@@ -10,10 +10,29 @@ Cheers,
 
 *Alexander*
 
+# [Handwritten digits recognition](https://github.com/AlexandersProjects/ml_number_recognition)
+* Imported 20000 pictures
+* Cleaned and reshaped the images
+* Explored/ visualized the images
+* Performed different prediction models:
+  * Linear regression
+  * Decision tree
+  * Random Forest
+  * Simple Neuronal Network
+  * Try of convoluted Neuronal Network
+* Tried different evaluation methods
+  * Heatmap with errors
+  * Loss over epochs
+  * Accuracy
+
+## Example output:
+<img src="./images/digits_visualization.png" width="450" height="450">
+<img src="./images/digits_error_heatmap.png" width="450" height="450">
+
 # [Pokemon comparison](https://github.com/AlexandersProjects/legendary_pokemon_comparison)
 * Explored the data
-* controlled the data
-* compared if legendary pokemon have statistically higher attack than non-legendary pokemon
+* Controlled the data
+* Compared if legendary pokemon have statistically higher attack than non-legendary pokemon.
 
 ## Hypothesis
 
@@ -33,10 +52,10 @@ The effect-size is d = 3.438535 and is according to Cohen (1988) a very strong e
 # [Asteroid diameter prediction](https://github.com/AlexandersProjects/Asteroid_Diameter_Prediction)
 * Cleaned the data
 * Explored the data
-* performed different prediction models:
+* Performed different prediction models:
   * Linear regression
-  * polynomial regressions
-  * decision three
+  * Polynomial regressions
+  * Decision tree
   * Random Forest
 
 ## Example output:
