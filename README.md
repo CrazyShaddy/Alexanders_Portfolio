@@ -10,6 +10,35 @@ Cheers,
 
 *Alexander*
 
+# [Freedom Status ANOVA (R)](https://github.com/AlexandersProjects/freedom_comparison_worldwide)
+* Explored the data
+  * Boxplots
+  * QQ-plots
+  * Histograms
+  * Used different R libraries for data exploration
+* Controlled the data for outliers
+* Compared if the different Freedom status are statistically significantly different groups.
+
+## Hypothesis
+
+H1: There is a mean difference between degree of freedom and the relative GDP.
+(FS[F] != FS[NF] != FS[PF])
+
+H0: There is no mean difference between degree of freedom and the relative GDP.
+(FS[F] = FS[NF] = FS[PF])
+
+## Conclusion
+The degree of freedom has a signifikant influence on the relative GDP (F(2, 49.062) = 15.491 , p = 6.097e-06). 19.4 % of the variation in the relative GDP around the overall mean can be explained by the degree of freedom. The effect strength according to Cohen (1988) is f = 0.4907 and corresponds to a strong effect.
+
+## Post-hoc-Test
+The Tukey post-hoc-test shows, that two groups can be constructed according to degree of freedom (all p < .05): free (M = 27841401	, SD = 26632852, N = 56), and not-free (M = 12368148, SD = 18508685,N = 21) and partially-free (M = 6202767	, SD = 10345156, N=44) form the second group.
+
+It can be concluded that two independent groups can be formed that differ from each other. Freedom is the most effective. H0 is declined, H1 accepted.
+
+## Example output:
+<img src="./images/freedom_qqplot.png" width="450" height="450">
+<img src="./images/freedom_profilediagram.png" width="450" height="450">
+
 # [Handwritten digits recognition (Python)](https://github.com/AlexandersProjects/ml_number_recognition)
 * Imported 20000 pictures
 * Cleaned and reshaped the images
