@@ -37,7 +37,7 @@ The Tukey post-hoc-test shows, that two groups can be constructed according to d
 It can be concluded that two independent groups can be formed that differ from each other. Freedom is the most effective. H0 is declined, H1 accepted.
 
 ## Example output:
-<img src="./images/freedom_qqplot.png" width="450" height="450">
+<img src="./images/freedom_qqplot.png" width="600" height="450">
 <img src="./images/freedom_profilediagram.png" width="450" height="450">
 
 # [Handwritten digits recognition (Python)](https://github.com/AlexandersProjects/ml_number_recognition)
