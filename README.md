@@ -10,6 +10,57 @@ Cheers,
 
 *Alexander*
 
+# [ANOVA of tips (Python)](https://github.com/AlexandersProjects/ANOVA_python)
+* Explored the data
+  * Boxplots
+  * QQ-plots
+  * Histograms
+  * Used different R libraries for data exploration
+* Controlled the data for outliers
+* Compared if the total bills are statistically significantly different per weekday.
+
+## Hypothesis
+
+H1: The weekday has an effect on the amount of the total bill.
+(M[1] != M[2] != M[3] != M[4])
+
+H0: The weekday has no effect on the amount of the total bill.
+(M[1] = M[2] = M[3] = M[4])
+
+## Conclusion
+### ANOVA
+The weekday has a significant influence on the total bill (F(3, 240) = 2.767 , p = 0.0424). 3.34 % of the spread of the total sum can be explained by the weekday. According to Cohen (1988) is the effect size of 0.186 a small effect.
+
+### Post-hoc-Test
+The Bonferroni Post-Hoc-Test shows that no groups can be generalized out of the weekday (all p > 0.05). Thursday (M=17.68, SD=7.89, N=62), Friday (M=17.15, SD=8.30, N=19), Saturday (M=20.44, SD=9.48, N=87) and Sunday (M=21.41, SD=8.83, N=76) are not significantly different.
+
+It can be concluded that no independent groups can be formed that differ from each other. Hence, although the ANOVA was significant, the H0 is kept and H1 declined.
+
+## Example output:
+#<img src="./images/freedom_qqplot.png" width="450" height="450">
+#<img src="./images/freedom_profilediagram.png" width="450" height="450">
+
+# [Statistical Analysis of tips (Python)](https://github.com/AlexandersProjects/stats_in_python)
+* Explored the data
+  * Boxplots
+  * QQ-plots
+  * Histograms
+  * Used different Python libraries for data exploration
+* Controlled the data for outliers
+* Used Pearson to check if there is a correlation between the total bill and the tip
+* Compared if man and woman give significantly different tips.
+
+## Conclusion
+### Pearson
+The tip and the total bill correlate positively significant (r = 0.6757341, p < 2.2e-16, n = 244). Hence, it can be said the higher the total bill the higher the tip. 45.66 % of the spread of the whole variance can be explained through the tip and the total bill. According to Cohen (1992) is the effect size of 0.68 a strong effect. The H0 can be discarded.
+
+### T-Test
+There is no significant difference between the tip of women (M = 2.83, SD = 1.16, n = 87) and man (M = 3.09, SD = 1.49, n = 157), (t(242) = -1.3879, p= 0.1665, n=244)). According to Cohen (1992) is the effect size of 0.185 no effect. The H0 cannot be discarded.
+
+## Example output:
+<img src="./images/stats_in_python_histogram.png" width="450" height="450">
+<img src="./images/stats_in_python_probability_plot.png" width="450" height="450">
+
 # [Freedom Status ANOVA (R)](https://github.com/AlexandersProjects/freedom_comparison_worldwide)
 * Explored the data
   * Boxplots
