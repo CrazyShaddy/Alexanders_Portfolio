@@ -37,8 +37,8 @@ The Bonferroni Post-Hoc-Test shows that no groups can be generalized out of the 
 It can be concluded that no independent groups can be formed that differ from each other. Hence, although the ANOVA was significant, the H0 is kept and H1 declined.
 
 ## Example output:
-#<img src="./images/freedom_qqplot.png" width="450" height="450">
-#<img src="./images/freedom_profilediagram.png" width="450" height="450">
+<img src="./images/anova_python_violin_plot.png" width="450" height="450">
+<img src="./images/anova_python_mean_plot.png" width="450" height="450">
 
 # [Statistical Analysis of tips (Python)](https://github.com/AlexandersProjects/stats_in_python)
 * Explored the data
