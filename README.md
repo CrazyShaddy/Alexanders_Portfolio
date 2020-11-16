@@ -59,7 +59,7 @@ There is no significant difference between the tip of women (M = 2.83, SD = 1.16
 
 ## Example output:
 <img src="./images/stats_in_python_histogram.png" width="450" height="450">
-<img src="./images/stats_in_python_probability_plot.png" width="450" height="450">
+<img src="./images/stats_in_python_probability_plot.png" width="450" height="300">
 
 # [Freedom Status ANOVA (R)](https://github.com/AlexandersProjects/freedom_comparison_worldwide)
 * Explored the data
