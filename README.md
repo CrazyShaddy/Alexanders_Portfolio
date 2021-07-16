@@ -10,6 +10,13 @@ Cheers,
 
 *Alexander*
 
+# [First website in HTML (HTML)](https://github.com/AlexandersProjects/pancake_recipe_website/tree/main)
+This is my first HTML Website.
+I created a simple pancake recipe and experimented with some HTML code.
+
+## Example output:
+<img src="./images/Pancake recipe website picture.jpg" width="450" height="450">
+
 # [ANOVA of tips (Python)](https://github.com/AlexandersProjects/ANOVA_python)
 * Explored the data
   * Boxplots
