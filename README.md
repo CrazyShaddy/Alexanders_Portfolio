@@ -1,9 +1,9 @@
 # Hello everybody,
 ## I am Alexander and this is my coding portfolio.
 
-I made my master in Biology and now I am on my way to become an Data or Business Analyst.
-Who knows, maybe this journey will lead me to become an data scientist?
-Here, I will share some of my python projects that I coded.
+I made my master in Biology and now I am on my way of getting into the IT.
+Who knows, maybe this journey will lead me to become a developer or go into BI?
+Here, I will share some of my programming projects that I coded.
 Enjoy the short summaries or have a look at the code on github.
 
 Cheers,
