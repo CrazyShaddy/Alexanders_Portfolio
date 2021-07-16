@@ -15,7 +15,7 @@ This is my first HTML Website.
 I created a simple pancake recipe and experimented with some HTML code.
 
 ## Example output:
-<img src="./images/Pancake recipe website picture.jpg" width="450" height="450">
+<img src="./images/Pancake recipe website picture.jpg" width="450" height="600">
 
 # [ANOVA of tips (Python)](https://github.com/AlexandersProjects/ANOVA_python)
 * Explored the data
