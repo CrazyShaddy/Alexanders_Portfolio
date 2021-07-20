@@ -14,8 +14,8 @@ Cheers,
 Here, I updated my trial website and made a CatPhotoApp with HTML and CSS.
 
 ## Example output:
-<img src="./images/pancake_recipe_website_CSS_update.jpg" width="450" height="700">
-<img src="./images/CatPhotoApp.jpg" width="450" height="600">
+<img src="./images/Pancake_recipe_website_CSS_update.jpg" width="450" height="700">
+<img src="./images/CatPhotoApp.jpg" width="350" height="600">
 
 # [First website in HTML (HTML)](https://github.com/AlexandersProjects/pancake_recipe_website/tree/main)
 This is my first HTML Website.
