@@ -1,37 +1,37 @@
 # Hello everybody,
 ## I am Alexander and this is my coding portfolio.
 
-I made my master in Biology and now I am on my way of getting into the IT.
-Who knows, maybe this journey will lead me to become a developer or go into BI?
-Here, I will share some of my programming projects that I coded.
-Enjoy the short summaries or have a look at the code on github.
+I made my master in Biology and now I am on my way of getting into the IT.<br>
+Who knows, maybe this journey will lead me to become a developer or go into BI?<br>
+Here, I will share some of my programming projects that I coded.<br>
+Enjoy the short summaries or have a look at the code on github.<br>
 
 Cheers,
 
 *Alexander*
 <!--Project: -->
 # [My FreeCodeCamp Responsive Web Design Projects (HTML/CSS)](https://github.com/AlexandersProjects/pancake_recipe_website/tree/main)
-I got my FreeCodeCamp Responsive Web Design Certificate!
+I got my FreeCodeCamp Responsive Web Design Certificate!<br>
 For this I went through the course (estimated 300 hours) and finished these 5 projects.
 
 ### This is my Certificate:
-<img src="./images/responsive_web_design_FCC_Certificate.jpg" width="600" height="450">
+[<img src="./images/responsive_web_design_FCC_Certificate.jpg" width="600" height="450">](https://www.freecodecamp.org/certification/alexanders_coding_journey/responsive-web-design)
 
 ## And here are my creations:
 ### This is my Hulk Tribute page:
-[<img src="./images/responsive_web_design_FCC_Tribute_page.jpg" width="350" height="600">](https://codepen.io/alexandersprojects/full/oNWqEOb)
+[<img src="./images/responsive_web_design_FCC_Tribute_page.jpg" width="450" height="600">](https://codepen.io/alexandersprojects/full/oNWqEOb)
 
 ### This is my Hulk-Fans Survey page:
-<img src="./images/responsive_web_design_FCC_Survey_page.jpg" width="450" height="600">
+[<img src="./images/responsive_web_design_FCC_Survey_page.jpg" width="450" height="600">](https://codepen.io/alexandersprojects/full/BaRrYem)
 
 ### This is my Hulk Landing page:
-<img src="./images/responsive_web_design_FCC_Landing_page.jpg" width="600" height="450">
+[<img src="./images/responsive_web_design_FCC_Landing_page.jpg" width="600" height="450">](https://codepen.io/alexandersprojects/full/abWYqgo)
 
 ### This is my Fake Technical Documentation:
-<img src="./images/responsive_web_design_FCC_Technical_documentation.jpg" width="600" height="600">
+[<img src="./images/responsive_web_design_FCC_Technical_documentation.jpg" width="600" height="600">](https://codepen.io/alexandersprojects/full/VwbXQJj)
 
 ### This is my Portfolio page:
-<img src="./images/responsive_web_design_FCC_portfolio.jpg" width="450" height="600">
+[<img src="./images/responsive_web_design_FCC_portfolio.jpg" width="450" height="600">](https://codepen.io/alexandersprojects/pen/QWvmQXx)
 
 <!--Project: -->
 # [Including CSS in my code (HTML/CSS)](https://github.com/AlexandersProjects/pancake_recipe_website/tree/main)
