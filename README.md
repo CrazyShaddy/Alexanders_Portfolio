@@ -34,7 +34,7 @@ For this I went through the course (estimated 300 hours) and finished these 5 pr
 [<img src="./images/responsive_web_design_FCC_portfolio.jpg" width="500" height="600">](https://codepen.io/alexandersprojects/pen/QWvmQXx)
 
 <!--Project: -->
-# [Including CSS in my code (HTML/CSS)](https://github.com/AlexandersProjects/pancake_recipe_website/tree/main)
+# [First CSS Trials (HTML/CSS)](https://github.com/AlexandersProjects/pancake_recipe_website/tree/main)
 Here, I updated my trial website and made a CatPhotoApp with HTML and CSS.
 
 ## Example output:
