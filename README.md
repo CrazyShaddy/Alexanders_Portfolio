@@ -9,7 +9,20 @@ Enjoy the short summaries or have a look at the code on github.
 Cheers,
 
 *Alexander*
+<!--Project: -->
+# [My FreeCodeCamp Responsive Web Design Projects (HTML/CSS)](https://github.com/AlexandersProjects/pancake_recipe_website/tree/main)
+Here, I updated my trial website and made a CatPhotoApp with HTML and CSS.
 
+## Example output:
+<img src="./images/responsive_web_design_FCC_Certificate.jpg" width="450" height="700">
+<img src="./images/responsive_web_design_FCC_Tribute_page.jpg" width="350" height="600">
+<img src="./images/responsive_web_design_FCC_Survey_page.png" width="450" height="450">
+<img src="./images/responsive_web_design_FCC_Landing_page.png" width="450" height="450">
+<img src="./images/responsive_web_design_FCC_Technical_Documentation.png" width="450" height="450">
+<img src="./images/responsive_web_design_FCC_Tribute_page.png" width="450" height="450">
+
+
+<!--Project: -->
 # [Including CSS in my code (HTML/CSS)](https://github.com/AlexandersProjects/pancake_recipe_website/tree/main)
 Here, I updated my trial website and made a CatPhotoApp with HTML and CSS.
 
@@ -17,6 +30,7 @@ Here, I updated my trial website and made a CatPhotoApp with HTML and CSS.
 <img src="./images/Pancake_recipe_website_CSS_update.jpg" width="450" height="700">
 <img src="./images/CatPhotoApp.jpg" width="350" height="600">
 
+<!--Project: -->
 # [First website in HTML (HTML)](https://github.com/AlexandersProjects/pancake_recipe_website/tree/main)
 This is my first HTML Website.
 I created a simple pancake recipe and experimented with some HTML code.
@@ -24,6 +38,7 @@ I created a simple pancake recipe and experimented with some HTML code.
 ## Example output:
 <img src="./images/Pancake recipe website picture.jpg" width="450" height="700">
 
+<!--Project: -->
 # [ANOVA of tips (Python)](https://github.com/AlexandersProjects/ANOVA_python)
 * Explored the data
   * Boxplots
@@ -54,6 +69,7 @@ It can be concluded that no independent groups can be formed that differ from ea
 <img src="./images/anova_python_violin_plot.png" width="450" height="450">
 <img src="./images/anova_python_mean_plot.png" width="450" height="450">
 
+<!--Project: -->
 # [Statistical Analysis of tips (Python)](https://github.com/AlexandersProjects/stats_in_python)
 * Explored the data
   * Boxplots
@@ -75,6 +91,7 @@ There is no significant difference between the tip of women (M = 2.83, SD = 1.16
 <img src="./images/stats_in_python_histogram.png" width="450" height="450">
 <img src="./images/stats_in_python_probability_plot.png" width="450" height="300">
 
+<!--Project: -->
 # [Freedom Status ANOVA (R)](https://github.com/AlexandersProjects/freedom_comparison_worldwide)
 * Explored the data
   * Boxplots
@@ -105,6 +122,7 @@ It can be concluded that two independent groups can be formed that differ from e
 <img src="./images/freedom_qqplot.png" width="600" height="450">
 <img src="./images/freedom_profilediagram.png" width="450" height="450">
 
+<!--Project: -->
 # [Handwritten digits recognition (Python)](https://github.com/AlexandersProjects/ml_number_recognition)
 * Imported 20000 pictures
 * Cleaned and reshaped the images
@@ -124,6 +142,7 @@ It can be concluded that two independent groups can be formed that differ from e
 <img src="./images/digits_visualization.png" width="450" height="450">
 <img src="./images/digits_error_heatmap.png" width="450" height="450">
 
+<!--Project: -->
 # [Pokemon comparison (R)](https://github.com/AlexandersProjects/legendary_pokemon_comparison)
 * Explored the data
 * Controlled the data
@@ -144,6 +163,7 @@ The effect-size is d = 3.438535 and is according to Cohen (1988) a very strong e
 ## Histrogram of pokemon attack:
 <img src="./images/pokemon_histogram.png" width="600" height="450">
 
+<!--Project: -->
 # [Asteroid diameter prediction (Python)](https://github.com/AlexandersProjects/Asteroid_Diameter_Prediction)
 * Cleaned the data
 * Explored the data
@@ -157,6 +177,7 @@ The effect-size is d = 3.438535 and is according to Cohen (1988) a very strong e
 <img src="./images/asteroids_decision%20tree.png" width="450" height="450">
 <img src="./images/asteroids_Decision%20Tree_Error%20Curve.png" width="450" height="450">
 
+<!--Project: -->
 # [Overfitting example (Python)](https://github.com/AlexandersProjects/ueberanpassung_Beispiele)
 * Used pipelines
 * Used convenience functions for calculations
@@ -171,6 +192,8 @@ The effect-size is d = 3.438535 and is according to Cohen (1988) a very strong e
 <img src="./images/quadratische_regression_ueberanpassung_002.png" width="450" height="450">
 <img src="./images/kubische_regression_ueberanpassung_003.png" width="450" height="450">
 
+
+<!--Project: -->
 # [Linear Regression (Python)](https://github.com/AlexandersProjects/linear_regressions)
 * performed:
   * linear regression
@@ -184,7 +207,7 @@ The effect-size is d = 3.438535 and is according to Cohen (1988) a very strong e
 
 <img src="./images/seaborn_pairplot.png" width="800" height="800">
 
-
+<!--Project: -->
 # [SQL film festival database](https://github.com/AlexandersProjects/SQL_Filmfestival_Database)
 * I constructed a database from scratch
 * I created all necessary tables
@@ -195,7 +218,7 @@ The effect-size is d = 3.438535 and is according to Cohen (1988) a very strong e
 ## The created database:
 <img src="./images/film_festival_database_diagram.jpg" width="1200" height="600">
 
-
+<!--Project: -->
 # [Height and weight Dataset with OOP (Python)](https://github.com/CrazyShaddy/height_weight_analysis_and_prediction)
 * I scraped data from a website
 * I explored the data
@@ -210,7 +233,7 @@ The effect-size is d = 3.438535 and is according to Cohen (1988) a very strong e
 <img src="./images/subplot_1.png" width="600" height="600">
 <img src="./images/prediction_output.png" width="600" height="600">
 
-
+<!--Project: -->
 # [Exploratory Data Analysis (Python)](https://github.com/CrazyShaddy/Exploratory-Data-Analysis)
 * I explored data from an online database
 * I extracted different dataframes
@@ -235,7 +258,7 @@ The effect-size is d = 3.438535 and is according to Cohen (1988) a very strong e
 
 ![](/images/three_plots.png)
 
-
+<!--Project: -->
 # [Compound Interest calculator (Python)](https://github.com/CrazyShaddy/Compound_Interest_Calculator)
 * I made a calculator that calculates the compound interest and plots the graph from start till finish
 * I took the user input
