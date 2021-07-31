@@ -24,7 +24,7 @@ For this I went through the course (estimated 300 hours) and finished these 5 pr
 ## This is my Hulk Landing page:
 <img src="./images/responsive_web_design_FCC_Landing_page.jpg" width="450" height="450">
 ## This is my Fake Technical Documentation:
-<img src="./images/responsive_web_design_FCC_Technical_Documentation.jpg" width="450" height="450">
+<img src="./images/responsive_web_design_FCC_Technical_documentation.jpg" width="450" height="450">
 ## This is my Portfolio page:
 <img src="./images/responsive_web_design_FCC_portfolio.jpg" width="450" height="450">
 
