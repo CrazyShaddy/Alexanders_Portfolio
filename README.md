@@ -22,16 +22,16 @@ For this I went through the course (estimated 300 hours) and finished these 5 pr
 [<img src="./images/responsive_web_design_FCC_Tribute_page.jpg" width="450" height="600">](https://codepen.io/alexandersprojects/full/oNWqEOb)
 
 ### This is my Hulk-Fans Survey page:
-[<img src="./images/responsive_web_design_FCC_Survey_page.jpg" width="450" height="600">](https://codepen.io/alexandersprojects/full/BaRrYem)
+[<img src="./images/responsive_web_design_FCC_Survey_page.jpg" width="450" height="550">](https://codepen.io/alexandersprojects/full/BaRrYem)
 
 ### This is my Hulk Landing page:
 [<img src="./images/responsive_web_design_FCC_Landing_page.jpg" width="600" height="450">](https://codepen.io/alexandersprojects/full/abWYqgo)
 
 ### This is my Fake Technical Documentation:
-[<img src="./images/responsive_web_design_FCC_Technical_documentation.jpg" width="600" height="600">](https://codepen.io/alexandersprojects/full/VwbXQJj)
+[<img src="./images/responsive_web_design_FCC_Technical_documentation.jpg" width="450" height="450">](https://codepen.io/alexandersprojects/full/VwbXQJj)
 
 ### This is my Portfolio page:
-[<img src="./images/responsive_web_design_FCC_portfolio.jpg" width="450" height="600">](https://codepen.io/alexandersprojects/pen/QWvmQXx)
+[<img src="./images/responsive_web_design_FCC_portfolio.jpg" width="500" height="600">](https://codepen.io/alexandersprojects/pen/QWvmQXx)
 
 <!--Project: -->
 # [Including CSS in my code (HTML/CSS)](https://github.com/AlexandersProjects/pancake_recipe_website/tree/main)
