@@ -14,19 +14,20 @@ Cheers,
 I got my FreeCodeCamp Responsive Web Design Certificate!
 For this I went through the course (estimated 300 hours) and finished these 5 projects.
 
+### This is my Certificate:
+<img src="./images/responsive_web_design_FCC_Certificate.jpg" width="600" height="450">
 
-## This is my Certificate:
-<img src="./images/responsive_web_design_FCC_Certificate.jpg" width="450" height="700">
-## This is my Hulk Tribute page:
+## And here are my creations:
+### This is my Hulk Tribute page:
 <img src="./images/responsive_web_design_FCC_Tribute_page.jpg" width="350" height="600">
-## This is my Hulk-Fans Survey page:
-<img src="./images/responsive_web_design_FCC_Survey_page.jpg" width="450" height="450">
-## This is my Hulk Landing page:
-<img src="./images/responsive_web_design_FCC_Landing_page.jpg" width="450" height="450">
-## This is my Fake Technical Documentation:
-<img src="./images/responsive_web_design_FCC_Technical_documentation.jpg" width="450" height="450">
-## This is my Portfolio page:
-<img src="./images/responsive_web_design_FCC_portfolio.jpg" width="450" height="450">
+### This is my Hulk-Fans Survey page:
+<img src="./images/responsive_web_design_FCC_Survey_page.jpg" width="450" height="600">
+### This is my Hulk Landing page:
+<img src="./images/responsive_web_design_FCC_Landing_page.jpg" width="600" height="450">
+### This is my Fake Technical Documentation:
+<img src="./images/responsive_web_design_FCC_Technical_documentation.jpg" width="600" height="600">
+### This is my Portfolio page:
+<img src="./images/responsive_web_design_FCC_portfolio.jpg" width="450" height="600">
 
 
 <!--Project: -->
