@@ -10,7 +10,7 @@ Cheers,
 
 *Alexander*
 <!--Project: -->
-# [My FreeCodeCamp Responsive Web Design Projects (HTML/CSS)](https://github.com/AlexandersProjects/pancake_recipe_website/tree/main)
+# [My FreeCodeCamp Responsive Web Design Projects (HTML/CSS)](https://github.com/AlexandersProjects/ResponsiveWebDesignProjects_FCC)
 I got my FreeCodeCamp Responsive Web Design Certificate!<br>
 For this I went through the course (estimated 300 hours) and finished these 5 projects.
 
@@ -19,7 +19,7 @@ For this I went through the course (estimated 300 hours) and finished these 5 pr
 
 ## And here are my creations:
 ### This is my Hulk Tribute page:
-[<img src="./images/responsive_web_design_FCC_Tribute_page.jpg" width="450" height="600">](https://codepen.io/alexandersprojects/full/oNWqEOb)
+[<img src="./images/responsive_web_design_FCC_Tribute_page.jpg" width="500" height="600">](https://codepen.io/alexandersprojects/full/oNWqEOb)
 
 ### This is my Hulk-Fans Survey page:
 [<img src="./images/responsive_web_design_FCC_Survey_page.jpg" width="450" height="550">](https://codepen.io/alexandersprojects/full/BaRrYem)
