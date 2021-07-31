@@ -16,10 +16,10 @@ Here, I updated my trial website and made a CatPhotoApp with HTML and CSS.
 ## Example output:
 <img src="./images/responsive_web_design_FCC_Certificate.jpg" width="450" height="700">
 <img src="./images/responsive_web_design_FCC_Tribute_page.jpg" width="350" height="600">
-<img src="./images/responsive_web_design_FCC_Survey_page.png" width="450" height="450">
-<img src="./images/responsive_web_design_FCC_Landing_page.png" width="450" height="450">
-<img src="./images/responsive_web_design_FCC_Technical_Documentation.png" width="450" height="450">
-<img src="./images/responsive_web_design_FCC_Tribute_page.png" width="450" height="450">
+<img src="./images/responsive_web_design_FCC_Survey_page.jpg" width="450" height="450">
+<img src="./images/responsive_web_design_FCC_Landing_page.jpg" width="450" height="450">
+<img src="./images/responsive_web_design_FCC_Technical_Documentation.jpg" width="450" height="450">
+<img src="./images/responsive_web_design_FCC_Tribute_page.jpg" width="450" height="450">
 
 
 <!--Project: -->
