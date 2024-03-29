@@ -1,16 +1,55 @@
-# Hello everybody,
-## I am Alexander and this is my coding portfolio.
+# Hi there 👋
+I'm Alexander, a biologist turned Java Software Developer with a passion for software that solves problems and automates stuff.
+After completing my master's degree in Biology, I found my way into the world of IT, where I've been thriving ever since. Here, I discovered that the systematic approach from biology is really useful for technology too. The world is a gigantic system afterall!<br>
 
-I made my master in Biology and now I am on my way of getting into the IT.<br>
-Who knows, maybe this journey will lead me to become a developer or go into BI?<br>
-Here, I will share some of my programming projects that I coded.<br>
-Enjoy the short summaries or have a look at the code on github.<br>
+Here, you'll find a collection of programming projects I've worked on, ranging from Java applications, over scripts and data science projects to web development ventures. Feel free to explore the code on [GitHub](https://github.com/AlexandersProjects) or dive into the summaries provided below.
 
-Cheers,
+- 🔭 I’m currently working as a Java Developer for a Document Management System.
+- 🌱 I’m passionate about agility methodologies and the evolving landscape of Web3 technologies.
+- ⚡ Fun fact: When I'm not coding, you'll find me immersed in fantasy novels (or trying to write one myself), strumming away on my guitar, or pondering the intricacies of philosophy.
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/alexanderblaschkosch%C3%A4nzer/) [Gmail](mailto:alexander.blaschko@gmail.com) [Twitter](https://twitter.com/ThePositiveBoy)
+<!--- ![Twitter Follow](https://img.shields.io/twitter/follow/ThePositiveBoy?style=social) -->
 
-*Alexander*
+## 💻 My Tech Stack:
+[![Java, Git, JavaScript, HTML, CSS, SQL, Python, Next.js, Node.js, React, Angular](https://skillicons.dev/icons?i=java,git,js,html,css,py,next,nodejs,react,angular)](https://skillicons.dev)
+
+- 💻 &nbsp;
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+- 🛢 &nbsp;&nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 🔧 &nbsp;
+  ![IntelliJ Idea](https://img.shields.io/badge/-Intellij%20Idea-333333?style=flat&logo=intellij-idea&logoColor=007ACC)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+- 🖥 &nbsp;&nbsp;
+  ![Krita](https://img.shields.io/badge/-Krita-333333?style=flat&logo=krita)
+
+## ✨Some of my past projects:
+<!--🗄️ 🖇️ 📇 ✨ 🌟 -->
+<details>
+  <summary>Show projects</summary>
+
 <!--Project: -->
-# [My FreeCodeCamp Responsive Web Design Projects (HTML/CSS)](https://github.com/AlexandersProjects/ResponsiveWebDesignProjects_FCC)
+### [My FreeCodeCamp Responsive Web Design Projects (HTML/CSS)](https://github.com/AlexandersProjects/ResponsiveWebDesignProjects_FCC)
+This was my first complete Web Design course.
+<details>
+  <summary>More details</summary>
 I got my FreeCodeCamp Responsive Web Design Certificate!<br>
 For this I went through the course (estimated 300 hours) and finished these 5 projects.
 
@@ -48,9 +87,13 @@ I created a simple pancake recipe and experimented with some HTML code.
 
 ## Example output:
 <img src="./images/Pancake recipe website picture.jpg" width="450" height="700">
+</details>
 
 <!--Project: -->
-# [ANOVA of tips (Python)](https://github.com/AlexandersProjects/ANOVA_python)
+### [ANOVA of tips (Python)](https://github.com/AlexandersProjects/ANOVA_python)
+My ANOVA analysis with python of a freely available tips-dataset.
+<details>
+  <summary>More details</summary>
 * Explored the data
   * Boxplots
   * QQ-plots
@@ -80,8 +123,14 @@ It can be concluded that no independent groups can be formed that differ from ea
 <img src="./images/anova_python_violin_plot.png" width="450" height="450">
 <img src="./images/anova_python_mean_plot.png" width="450" height="450">
 
-<!--Project: -->
-# [Statistical Analysis of tips (Python)](https://github.com/AlexandersProjects/stats_in_python)
+</details>
+
+
+  <!--Project: -->
+### [Statistical Exploration of tips (Python)](https://github.com/AlexandersProjects/stats_in_python)
+My statistical exploration with python of a freely available tips-dataset.
+<details>
+  <summary>More details</summary>
 * Explored the data
   * Boxplots
   * QQ-plots
@@ -101,9 +150,14 @@ There is no significant difference between the tip of women (M = 2.83, SD = 1.16
 ## Example output:
 <img src="./images/stats_in_python_histogram.png" width="450" height="450">
 <img src="./images/stats_in_python_probability_plot.png" width="450" height="300">
+</details>
 
-<!--Project: -->
-# [Freedom Status ANOVA (R)](https://github.com/AlexandersProjects/freedom_comparison_worldwide)
+
+  <!--Project: -->
+### [Freedom Status ANOVA (R)](https://github.com/AlexandersProjects/freedom_comparison_worldwide)
+My statistical exploration with python of a freely available freedom-status-dataset.
+<details>
+  <summary>More details</summary>
 * Explored the data
   * Boxplots
   * QQ-plots
@@ -133,8 +187,12 @@ It can be concluded that two independent groups can be formed that differ from e
 <img src="./images/freedom_qqplot.png" width="600" height="450">
 <img src="./images/freedom_profilediagram.png" width="450" height="450">
 
+</details>
+
 <!--Project: -->
-# [Handwritten digits recognition (Python)](https://github.com/AlexandersProjects/ml_number_recognition)
+### [Handwritten digits recognition (Python)](https://github.com/AlexandersProjects/ml_number_recognition)
+<details>
+  <summary>More details</summary>
 * Imported 20000 pictures
 * Cleaned and reshaped the images
 * Explored/ visualized the images
@@ -153,8 +211,14 @@ It can be concluded that two independent groups can be formed that differ from e
 <img src="./images/digits_visualization.png" width="450" height="450">
 <img src="./images/digits_error_heatmap.png" width="450" height="450">
 
-<!--Project: -->
-# [Pokemon comparison (R)](https://github.com/AlexandersProjects/legendary_pokemon_comparison)
+</details>
+
+
+  <!--Project: -->
+### [Pokemon comparison (R)](https://github.com/AlexandersProjects/legendary_pokemon_comparison)
+In this project, I compared the legendary pokemon in R.
+<details>
+  <summary>More details</summary>
 * Explored the data
 * Controlled the data
 * Compared if legendary pokemon have statistically higher attack than non-legendary pokemon.
@@ -174,9 +238,15 @@ The effect-size is d = 3.438535 and is according to Cohen (1988) a very strong e
 ## Histrogram of pokemon attack:
 <img src="./images/pokemon_histogram.png" width="600" height="450">
 
+</details>
+
+
 <!--Project: -->
-# [Asteroid diameter prediction (Python)](https://github.com/AlexandersProjects/Asteroid_Diameter_Prediction)
-* Cleaned the data
+### [Asteroid diameter prediction (Python)](https://github.com/AlexandersProjects/Asteroid_Diameter_Prediction)
+In this project, I used machine learning for predicting asteroid diameter.
+<details>
+  <summary>More details</summary>
+  * Cleaned the data
 * Explored the data
 * Performed different prediction models:
   * Linear regression
@@ -187,9 +257,13 @@ The effect-size is d = 3.438535 and is according to Cohen (1988) a very strong e
 ## Example output:
 <img src="./images/asteroids_decision%20tree.png" width="450" height="450">
 <img src="./images/asteroids_Decision%20Tree_Error%20Curve.png" width="450" height="450">
+</details>
 
 <!--Project: -->
-# [Overfitting example (Python)](https://github.com/AlexandersProjects/ueberanpassung_Beispiele)
+### [Overfitting example (Python)](https://github.com/AlexandersProjects/ueberanpassung_Beispiele)
+Here, I created different regressions and compared them.
+<details>
+  <summary>More details</summary>
 * Used pipelines
 * Used convenience functions for calculations
 * performed:
@@ -202,10 +276,13 @@ The effect-size is d = 3.438535 and is according to Cohen (1988) a very strong e
 <img src="./images/lineare_regression_ueberanpassung_001.png" width="450" height="450">
 <img src="./images/quadratische_regression_ueberanpassung_002.png" width="450" height="450">
 <img src="./images/kubische_regression_ueberanpassung_003.png" width="450" height="450">
-
+</details>
 
 <!--Project: -->
-# [Linear Regression (Python)](https://github.com/AlexandersProjects/linear_regressions)
+### [Linear Regression (Python)](https://github.com/AlexandersProjects/linear_regressions)
+Linear regressions are cool.
+<details>
+  <summary>More details</summary>
 * performed:
   * linear regression
   * multiple linear regression
@@ -217,9 +294,13 @@ The effect-size is d = 3.438535 and is according to Cohen (1988) a very strong e
 <img src="./images/linear_regression.png" width="450" height="450">
 
 <img src="./images/seaborn_pairplot.png" width="800" height="800">
+</details>
 
 <!--Project: -->
-# [SQL film festival database](https://github.com/AlexandersProjects/SQL_Filmfestival_Database)
+### [SQL film festival database](https://github.com/AlexandersProjects/SQL_Filmfestival_Database)
+<details>
+  <summary>More details</summary>
+  
 * I constructed a database from scratch
 * I created all necessary tables
 * I made all the necessary connections and indices
@@ -228,9 +309,14 @@ The effect-size is d = 3.438535 and is according to Cohen (1988) a very strong e
 
 ## The created database:
 <img src="./images/film_festival_database_diagram.jpg" width="1200" height="600">
+</details>
+
 
 <!--Project: -->
-# [Height and weight Dataset with OOP (Python)](https://github.com/CrazyShaddy/height_weight_analysis_and_prediction)
+### [Height and weight Dataset with OOP (Python)](https://github.com/CrazyShaddy/height_weight_analysis_and_prediction)
+<details>
+  <summary>More details</summary>
+  
 * I scraped data from a website
 * I explored the data
 * I included everything in objects (OOP)
@@ -244,8 +330,12 @@ The effect-size is d = 3.438535 and is according to Cohen (1988) a very strong e
 <img src="./images/subplot_1.png" width="600" height="600">
 <img src="./images/prediction_output.png" width="600" height="600">
 
+</details>
+
 <!--Project: -->
-# [Exploratory Data Analysis (Python)](https://github.com/CrazyShaddy/Exploratory-Data-Analysis)
+### [Exploratory Data Analysis (Python)](https://github.com/CrazyShaddy/Exploratory-Data-Analysis)
+<details>
+  <summary>More details</summary>
 * I explored data from an online database
 * I extracted different dataframes
 * I merged important dataframes
@@ -268,9 +358,13 @@ The effect-size is d = 3.438535 and is according to Cohen (1988) a very strong e
 ![](/images/first_subplot_scatter.png)
 
 ![](/images/three_plots.png)
+</details>
+
 
 <!--Project: -->
-# [Compound Interest calculator (Python)](https://github.com/CrazyShaddy/Compound_Interest_Calculator)
+### [Compound Interest calculator (Python)](https://github.com/CrazyShaddy/Compound_Interest_Calculator)
+<details>
+  <summary>More details</summary>
 * I made a calculator that calculates the compound interest and plots the graph from start till finish
 * I took the user input
 * I made functions to
@@ -285,3 +379,24 @@ The effect-size is d = 3.438535 and is according to Cohen (1988) a very strong e
 ![](/images/Output_console.png)
 
 ![](/images/CI_example.png)
+
+</details>
+
+<!--Project: -->
+### My first project
+This was my very first project.
+<details>
+  <summary>More details</summary>
+  Surprise!
+  Text me if you read this. Maybe you are the first one!
+</details>
+
+</details>
+
+## 🏆 My Stats:
+My stats are not complete because I don't commit my private projects often. Many times I only commit and push them after it's quite okay running or complete. Depending on the size of the project.
+<p>
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alexandersprojects&show_icons=true&count_private=true&theme=github_dark" />&nbsp;&nbsp;
+    <!-- Other themes: github_dark_dimmed, shadow_red, default, transparent -->
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandersprojects&layout=compact&theme=github_dark" />&nbsp;&nbsp;
+</p>
